@@ -8,10 +8,10 @@ import balayage from '@/assets/gallery-preview/Cabello2.jpg';
 import alisadoCorte from '@/assets/gallery-preview/Cabello3.jpg';
 import correccionColor from '@/assets/gallery-preview/Cabello4.jpg';
 
-import catEye from '@/assets/gallery-preview/Uñas1.jpg';
-import nailArt from '@/assets/gallery-preview/Uñas2.jpg';
-import builder from '@/assets/gallery-preview/Uñas3.jpg';
-import softGel from '@/assets/gallery-preview/Uñas4.jpg';
+import catEye from '@/assets/gallery-preview/Nails1.jpg';
+import nailArt from '@/assets/gallery-preview/Nails2.jpg';
+import builder from '@/assets/gallery-preview/Nails3.jpg';
+import softGel from '@/assets/gallery-preview/Nails4.jpg';
 
 
 export function GalleryPreview() {
