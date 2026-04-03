@@ -1,20 +1,19 @@
-import gelPermanente from '@/assets/services/Uñas/GelPermanente.jpg';
-import softGel from '@/assets/services/Uñas/SoftGel.jpg';
-import rubber from '@/assets/services/Uñas/Rubber.jpg';
-import nivelacionBuilder from '@/assets/services/Uñas/NivelacionBuilder.jpg';
-import gelPermanenteFortalecedor from '@/assets/services/Uñas/GelPermanenteFortalecedor.jpg';
-import nivelacionEsmaltado from '@/assets/services/Uñas/NivelacionEsmaltado.jpg';
-import rubberEsmaltado from '@/assets/services/Uñas/RubberEsmaltado.jpg';
-import reconstruccionBordes from '@/assets/services/Uñas/ReconstrucciónBordes.jpg';
-import esmaltadoRegular from '@/assets/services/Uñas/EsmaltadoRegular.jpg';
-import manicuraRusa from '@/assets/services/Uñas/ManicuraRusa.jpg';
-import manicuraSpa from '@/assets/services/Uñas/ManicuraSpa.jpg';
-import manicuraCombinada from '@/assets/services/Uñas/ManicuraCombinada.jpg';
-import pedicuraRusa from '@/assets/services/Uñas/PedicuraRusa.jpg';
-import pedicuraSpa from '@/assets/services/Uñas/PedicuraSpa.jpg';
-import pedicuraCombinada from '@/assets/services/Uñas/PedicuraCombinada.jpg';
-import gelPermanentePies from '@/assets/services/Uñas/GelPermanentePies.jpg';
-
+import gelPermanente from '@/assets/services/Nails/GelPermanente.jpg';
+import softGel from '@/assets/services/Nails/SoftGel.jpg';
+import rubber from '@/assets/services/Nails/Rubber.jpg';
+import nivelacionBuilder from '@/assets/services/Nails/NivelacionBuilder.jpg';
+import gelPermanenteFortalecedor from '@/assets/services/Nails/GelPermanenteFortalecedor.jpg';
+import nivelacionEsmaltado from '@/assets/services/Nails/NivelacionEsmaltado.jpg';
+import rubberEsmaltado from '@/assets/services/Nails/RubberEsmaltado.jpg';
+import reconstruccionBordes from '@/assets/services/Nails/ReconstruccionBordes.jpg';
+import esmaltadoRegular from '@/assets/services/Nails/EsmaltadoRegular.jpg';
+import manicuraRusa from '@/assets/services/Nails/ManicuraRusa.jpg';
+import manicuraSpa from '@/assets/services/Nails/ManicuraSpa.jpg';
+import manicuraCombinada from '@/assets/services/Nails/ManicuraCombinada.jpg';
+import pedicuraRusa from '@/assets/services/Nails/PedicuraRusa.jpg';
+import pedicuraSpa from '@/assets/services/Nails/PedicuraSpa.jpg';
+import pedicuraCombinada from '@/assets/services/Nails/PedicuraCombinada.jpg';
+import gelPermanentePies from '@/assets/services/Nails/GelPermanentePies.jpg';
 
 
 export const manicureServices = [
